@@ -19,5 +19,6 @@
 ### 唤起
 - 浏览器双指连续敲击页面10次
 
-### 如图
-
+### Demo
+![](https://gw.alipayobjects.com/zos/rmsportal/sxgDDCQjfMgKLJTrIOVF.png)
+![](https://gw.alipayobjects.com/zos/rmsportal/fsOHQjhMMshpTdRvaJoe.gif)
