@@ -1,0 +1,33 @@
+{
+  "name": "consoleme",
+  "version": "1.0.0",
+  "author": "David-CodingSerf",
+  "description": "Mobile Console",
+  "main": "index.js",
+  "keywords": [
+    "debug",
+    "tool",
+    "console"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:David-CodingSerf/consoleme.git"
+  },
+
+  "spm": {
+    "output": [
+      "./index.js"
+    ],
+    "build": {
+      "dest": "dist"
+    }
+  },
+  "devDependencies": {
+    "webpack": "3.7.1"
+  },
+  "scripts": {
+    "dev": "webpack -w",
+    "build": "webpack"
+  }
+}
