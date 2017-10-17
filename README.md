@@ -13,7 +13,7 @@
 ```
 <script consoleme-run src="./dist/consoleme.min.js"></script>
 ```
-### 唤起
+### 如何唤起
 - 浏览器双指连续敲击页面10次
 
 ### 支持命令简写
