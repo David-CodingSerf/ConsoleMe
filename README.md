@@ -20,6 +20,4 @@
 - 浏览器双指连续敲击页面10次
 
 ### Demo
-![](https://gw.alipayobjects.com/zos/rmsportal/EeUOrFoufjhsuuEVHIoG.gif)
-
-![](https://gw.alipayobjects.com/zos/rmsportal/sxgDDCQjfMgKLJTrIOVF.png)
+![](https://gw.alipayobjects.com/zos/rmsportal/ySDMoKTTeDrSQDDLWkGU.gif)
